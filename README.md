@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
  I’m currently learning  python <br>
-
+📫 How to reach me: ...
+sinhaaayush2001@gmail.com
 
 ## 🌐 Socials:
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aayush_sinha_09?igshid=ZDdkNTZiNTM=) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-sinha-1a1a4b1a5/)
