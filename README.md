@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 📫 How to reach me: ...
 sinhaaayush2001@gmail.com
 
-## 🌐https://instagram.com/the_king_09_10?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-sinha-1a1a4b1a5/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-sinha-1a1a4b1a5/)
 
 # 💻 Tech Stack:
  ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
