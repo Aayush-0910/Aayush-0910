@@ -29,6 +29,7 @@ sinhaaayush2001@gmail.com
 
 # 💻 Tech Stack:
  ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
+  ![Html](https://img.shields.io/badge/html-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Aayushsinha09&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
