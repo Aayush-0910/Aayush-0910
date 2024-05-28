@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Computer+Enthusiast;)](https://git.io/typing-svg)
 
 # 💫 About Me:
- I’m currently learning and working on🔭 I’m currently working on Web Development
+ 🔭 I’m currently working on Web Development
 👯 I’m looking to collaborate on web development
 🤝 I’m looking for help with back-end and web3.0
 🌱 I’m currently learning ReactJs, python
