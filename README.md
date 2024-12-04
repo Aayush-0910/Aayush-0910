@@ -5,8 +5,7 @@
 
 # 💫 About Me:
 🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on web development<br>🤝 I’m looking for help with front-end and web3.0<br>🌱 I’m currently learning ReactJs, python <br>⚡ Fun fact I am a student
-📫 How to reach me: ...
-sinhaaayush2001@gmail.com
+📫 How to reach me: ...   sinhaaayush2001@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-sinha-1a1a4b1a5/)
 
