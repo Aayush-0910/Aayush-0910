@@ -37,7 +37,7 @@
 
 ## 💻 Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,c,cpp,mysql" alt="Tech Stack" />
 </p>
 
 ---
@@ -45,7 +45,7 @@
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aayushsinha09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayushsinha09&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayushsinha09&theme=tokyonight&hide_border=false&fire=FF4500&stroke=50&hide_border=false" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayushsinha&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
