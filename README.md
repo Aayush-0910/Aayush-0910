@@ -1,5 +1,5 @@
 ![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)
-# Hi there, I'm Aayush Sinha 👋
+
 
 <h1 align="center">Hi <img src="https://media0.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=ecf05e47h725kwv0sspzozkw09vmylceczlowrmxd1pljclb&rid=giphy.gif&ct=s" width="30px" height="30px">, I'm Aayush Sinha</h1>
 <h3 align="center">🚀 An Open Learner | Web Developer | Tech Explorer <img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Developer.gif" width="30px" height="30px"></h3>
@@ -13,7 +13,13 @@
 
 ## 📬 Reach Me:
 - **Email:** [📧 sinhaaayush2001@gmail.com](mailto:sinhaaayush2001@gmail.com)
-- **LinkedIn:** [Aayush Sinha](https://www.linkedin.com/in/aayush-sinha-1a1a4b1a5/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/aayush-sinha-1a1a4b1a5/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+---
 
 ---
 
