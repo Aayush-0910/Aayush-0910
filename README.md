@@ -1,8 +1,8 @@
 ![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)
 # Hi there, I'm Aayush Sinha 👋
 
-## 🚀 About Me:
-I am a **Web Developer** and **Tech Explorer** passionate about building interactive and user-friendly web applications. Currently diving deep into **ReactJS** and **Web3.0**, and always striving to learn new technologies.
+<h1 align="center">Hi <img src="https://media0.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=ecf05e47h725kwv0sspzozkw09vmylceczlowrmxd1pljclb&rid=giphy.gif&ct=s" width="30px" height="30px">, I'm Aayush Sinha</h1>
+<h3 align="center">🚀 An Open Learner | Web Developer | Tech Explorer <img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Developer.gif" width="30px" height="30px"></h3>
 
 - 💻 **Currently working on:** Web Development & Interactive UI
 - 🤝 **Looking to collaborate on:** Open-source Web Projects
