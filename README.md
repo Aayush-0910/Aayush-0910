@@ -1,3 +1,4 @@
+![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)
 # Hi there, I'm Aayush Sinha 👋
 
 ## 🚀 About Me:
