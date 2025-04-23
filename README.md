@@ -45,6 +45,44 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aayushsinha09&show_icons=true&theme=tokyonight" width="47%"/>
+  <img src="https://streak-stats.demolab.com/?user=Aayushsinha09&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" width="47%"/>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayushsinha09&layout=compact&theme=tokyonight" width="60%"/>
+</p>
+
+</details>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aayushsinha09&show_icons=true&theme=tokyonight" width="47%"/>
+  <img src="https://streak-stats.demolab.com/?user=Aayushsinha09&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" width="47%"/>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayushsinha09&layout=compact&theme=tokyonight" width="60%"/>
+</p>
+
+</details>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aayushsinha09&show_icons=true&theme=tokyonight" width="47%"/>
+  <img src="https://streak-stats.demolab.com/?user=Aayushsinha09&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" width="47%"/>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayushsinha09&layout=compact&theme=tokyonight" width="60%"/>
+</p>
+
+</details>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aayushsinha09&show_icons=true&theme=tokyonight" width="47%"/>
+  <img src="https://streak-stats.demolab.com/?user=Aayushsinha09&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" width="47%"/>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayushsinha09&layout=compact&theme=tokyonight" width="60%"/>
+</p>
+
+</details>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aayushsinha09&show_icons=true&theme=tokyonight" width="47%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayushsinha09&theme=tokyonight" width="47%"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayushsinha09&layout=compact&theme=tokyonight" width="60%"/>
