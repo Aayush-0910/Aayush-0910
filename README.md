@@ -73,6 +73,21 @@
 
 ---
 
+## 🎵 Now Playing - Spotify
+
+<!-- Add this block if you want to show the current song you're listening to on Spotify -->
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/aayushsinha)
+
+---
+
+## 🖥 Contributions Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Aayushsinha09&theme=react-dark&hide_border=true" width="100%"/>
+</p>
+
+---
+
 ## 😂 Random Dev Meme
 
 <p align="center">
@@ -81,6 +96,9 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Have%20a%20great%20day!&fontSize=40" />
-</p>
+## 🌙 Dark Mode Toggle
+
+**You can switch to dark mode if you want!** Here’s how it looks:
+
+```html
+<meta name="theme-color" content="#2d3436">
