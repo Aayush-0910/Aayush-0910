@@ -1,93 +1,100 @@
+<!-- PROFILE README -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey%20there,%20I'm%20Aayush%20👋&fontSize=40&fontAlign=50&fontColor=ffffff"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Python+%7C+JavaScript+%7C+React+Enthusiast;Always+Learning+New+Things...">
+</p>
+
 <div align="center">
 
-# 👋 Hey there, I'm Aayush Sinha  
-🚀 Open Learner | 💻 Web Developer | ⚙️ Tech Explorer
+![Profile views](https://komarev.com/ghpvc/?username=Aayushsinha09&label=PROFILE+VIEWS&color=blueviolet&style=flat-square)
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
+[![GitHub followers](https://img.shields.io/github/followers/Aayushsinha09?label=Follow&style=social)](https://github.com/Aayushsinha09)
+[![Website](https://img.shields.io/badge/Portfolio-aayushsinhaportfolio.netlify.app-informational?style=flat&logo=vercel)](https://aayushsinhaportfolio.netlify.app)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Aayushsinha09.Aayushsinha09)  
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 💡 About Me
 
-- 🌱 I’m currently learning **ReactJS**, **Node.js**, and **API Integration**  
-- 🔭 I’m working on building cool, **UI-rich web projects**
-- 💬 Ask me about **Web Dev, Python, or Debugging**
-- 🎯 2025 Goal: **Build meaningful digital products**
-- ⚡ Fun Fact: My debugger sees more code than I do 😎
+🧠 BTech CSE @ SRMIST | 4th Year  
+🌐 Web Developer Intern @ Internpedia  
+🌱 Learning React, Node.js & API Integration  
+📫 Reach me at **sinhaaayush2001@gmail.com**  
+🧩 Fun fact: I use dark mode in real life too 😎  
 
 ---
 
-## 🚀 My Tech Stack
+<details open>
+  <summary><b>🔧 Tech Stack</b></summary><br/>
 
-<details>
-  <summary>Click to expand</summary>
-
-| Category | Tech |
-|---------|------|
-| 💻 Frontend | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) |
-| ⚙️ Backend | ![Node](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) |
-| 🐍 Language | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
-| 🎨 Styling | ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
-| 🔧 Tools | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
+| Languages | Tools & Libraries | Databases | Other |
+|---|---|---|---|
+| ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) | ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb) | ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) | ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code) |
 
 </details>
 
 ---
 
-## 📈 GitHub Activity
+<details>
+  <summary><b>📈 GitHub Stats</b></summary><br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aayushsinha09&show_icons=true&theme=radical" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayushsinha09&theme=radical" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aayushsinha09&show_icons=true&theme=tokyonight" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayushsinha09&theme=tokyonight" width="47%"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayushsinha09&layout=compact&theme=tokyonight" width="60%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayushsinha09&layout=compact&theme=radical" width="50%"/>
-</p>
+</details>
 
 ---
 
-## 📅 Contribution Calendar
-
-[![Aayush's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aayushsinha09&theme=react-dark)](https://github.com/Aayushsinha09)
+<details>
+  <summary><b>📅 GitHub Calendar</b></summary><br/>
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aayushsinha09&theme=react-dark&area=true"/>
+  </p>
+</details>
 
 ---
 
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aayushsinha09&theme=radical&margin-w=15&no-bg=true&no-frame=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Aayushsinha09&theme=algolia&no-frame=true&no-bg=true&margin-w=15"/>
 </p>
 
 ---
 
-## ✉️ Connect With Me
+## 🌐 Let's Connect
 
 <p align="center">
-  <a href="mailto:sinhaaayush2001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/aayush-sinha-1a1a4b1a5/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://aayushsinhaportfolio.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:sinhaaayush2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aayush-sinha-1a1a4b1a5/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://aayushsinhaportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🎯 Quote of the Day
+<details>
+  <summary><b>🎯 Dev Quote of the Day</b></summary><br/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</details>
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<details>
+  <summary><b>😂 Meme of the Day</b></summary><br/>
+  <p align="center">
+    <img src="https://random-memer.herokuapp.com/" width="400"/>
+  </p>
+</details>
 
 ---
 
-## 😂 Meme of the Day
-
 <p align="center">
-  <img src="https://random-memer.herokuapp.com/" width="400"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20scrolling!&fontSize=30&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
