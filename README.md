@@ -1,69 +1,68 @@
 <div align="center">
-  <h1>Hi there 👋, I'm Aayush Sinha</h1>
-  <h3>Web Developer | Tech Explorer | Open Learner</h3>
+
+# AAYUSH SINHA
+
+### 🚀 Building Digital Experiences | MERN Stack Developer | Lifelong Learner 🚀
+
 </div>
 
----
+***
+
+## // WHO AM I?
+
+> I'm a passionate Web Developer focused on building engaging and efficient applications. I thrive on solving problems, exploring the MERN stack, and continuously learning new technologies. My core drivers are:
+>
+> * **Developing:** Crafting clean code and functional solutions.
+> * **Learning:** Constantly seeking knowledge and improvement.
+> * **Collaborating:** Believing great things are built together.
+
+***
+
+## // MY TOOLKIT
 
 <p align="center">
-  <em>I'm passionate about building efficient and engaging web applications using modern technologies.<br> Currently exploring the MERN stack and always eager to learn and collaborate on exciting projects.</em>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,python,git&theme=merko&perline=10" alt="Tech Stack"/>
 </p>
 
----
+***
 
-## What I'm Up To
+## // CURRENT MISSION
 
-<details>
-  <summary><strong>🎯 Current Focus & Goals (Click to Expand)</strong></summary>
+* **Developing:** Robust backend APIs and interactive dashboards using the **MERN** stack.
+* **Mastering:** Advanced **React** patterns, **Node.js** optimization, and efficient **Tailwind CSS** workflows.
+* **Seeking Collaboration:** On innovative **React-based products** and **dashboards**. Let's connect!
+* **Improving:** Skills in **frontend performance optimization** and modern **deployment (CI/CD)** techniques.
+* **2025 Goal:** Contribute actively to impactful, real-world web applications.
 
-  * **Working On:** Building full-stack applications with the MERN stack (MongoDB, Express, React, Node.js), focusing on clean backend APIs and functional dashboards.
-  * **Learning:** Deepening my knowledge of React hooks, state management, Node.js internals, Tailwind CSS for utility-first styling, and effective API integration patterns.
-  * **Collaboration:** Keen to connect with others on React-based product development and interactive dashboard projects. Let's build something impactful!
-  * **Seeking:** Insights and best practices for optimizing frontend load times, bundle sizes, and efficient deployment pipelines (CI/CD).
-  * **Goal for 2025:** To become a proficient full-stack developer contributing meaningfully to real-world applications and open-source projects.
-  * **Fun Fact:** I find the challenge of debugging as stimulating as a strong cup of coffee! ☕
+***
 
-</details>
-
-<details>
-  <summary><strong> JAZmine said "it is hot 🥵" Tech Stack (Click to Expand)</strong></summary>
-
-  * **Frontend:** HTML5, CSS3, JavaScript (ES6+), React, Tailwind CSS
-  * **Backend:** Node.js, Express.js
-  * **Database:** MongoDB
-  * **Tools & Others:** Git, GitHub, Python (for scripting/learning), REST APIs
-
-  </details>
-
-<details>
-  <summary><strong>📊 GitHub Snapshot (Click to Expand)</strong></summary>
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Aayushsinha09&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&line_height=21" alt="Aayush Sinha's GitHub Stats"/>
-    <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayushsinha09&theme=transparent&hide_border=true&layout=compact&langs_count=8" alt="Aayush Sinha's Top Languages"/>
-    </p>
-
-</details>
-
----
-
-## Let's Connect
+## // GITHUB PULSE
 
 <p align="center">
-  Interested in collaborating, chatting about tech, or just saying hi? Reach out!
+  <img src="https://github-readme-stats.vercel.app/api?username=Aayushsinha09&theme=merko&hide_border=false&include_all_commits=true&count_private=false&show_icons=true" alt="Aayush Sinha's GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayushsinha09&theme=merko&hide_border=false" alt="Aayush Sinha's GitHub Streak"/>
 </p>
+
+***
+
+## // LET'S BUILD TOGETHER
+
+> Got an idea? Looking to collaborate? Or just want to talk tech? Reach out!
 
 <p align="center">
-  <a href="mailto:sinhaaayush2001@gmail.com" style="margin: 0 10px;">📧 Email</a> |
-  <a href="https://www.linkedin.com/in/aayush-sinha-1a1a4b1a5/" target="_blank" style="margin: 0 10px;">💼 LinkedIn</a> |
-  <a href="https://aayushsinhaportfolio.netlify.app" target="_blank" style="margin: 0 10px;">🌐 Portfolio</a> |
-  <a href="https://github.com/Aayushsinha09" target="_blank" style="margin: 0 10px;">🐙 GitHub</a>
+  <a href="mailto:sinhaaayush2001@gmail.com" target="_blank" style="margin: 0 12px;">
+    <img src="https://img.shields.io/badge/Email-c71610?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/aayush-sinha-1a1a4b1a5/" target="_blank" style="margin: 0 12px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://aayushsinhaportfolio.netlify.app" target="_blank" style="margin: 0 12px;">
+    <img src="https://img.shields.io/badge/Portfolio-00C896?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://github.com/Aayushsinha09" target="_blank" style="margin: 0 12px;">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
 
----
-
-> "The best way to predict the future is to build it."
-
-<p align="center">
-  <em>Thanks for visiting!</em>
-</p>
+***
