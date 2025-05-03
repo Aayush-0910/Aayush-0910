@@ -51,14 +51,7 @@
 
 ---
 
-## ✨ Featured Projects (Placeholder)
 
-* recruiters *love* seeing deployed projects! Replace this section with links & brief descriptions of 1-2 of your best works.*
-
-* **Project 1 Name:** [Link to Deployed App](your-deploy-link) | [Link to GitHub Repo](your-repo-link)
-    * Brief description (1-2 sentences): What it is, what problem it solves, key technologies used (`React`, `Node.js`, `MongoDB`, etc.).
-* **Project 2 Name:** [Link to Deployed App](your-deploy-link) | [Link to GitHub Repo](your-repo-link)
-    * Brief description (1-2 sentences): What it is, what problem it solves, key technologies used.
 
 ---
 
