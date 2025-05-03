@@ -1,12 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header&text=Aayush%20Sinha&fontSize=70&fontAlignY=45" alt="Header Banner"/>
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Aayush%20Sinha&fontSize=80&fontAlignY=40&animation=fadeIn&fontColor=ffffff" alt="Header Banner"/>
+  </p>
 
 <div align="center">
-  <h3>
-    🚀 MERN Stack Developer | Backend Engineer | Tech Enthusiast 🚀
-  </h3>
-  <p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=20BEFF&center=true&vCenter=true&width=450&lines=MERN+Stack+Developer;Backend+Engineer;Lifelong+Learner;Tech+Enthusiast" alt="Typing SVG">
+    </a>
+
+  <br><br> <p>
     Passionate about building robust, scalable web applications and continuously improving my skills in modern web technologies. Currently focused on the MERN stack, backend development, and performance optimization.
   </p>
 </div>
@@ -29,7 +30,7 @@
 
 ---
 
-## 🎯 Current Focus & Goals (Q2 2025)
+## 🎯 Current Focus & Goals (As of May 2025)
 
 * **Developing:** Building performant backend APIs and services using `Node.js` and `Express.js`. Crafting responsive UI components with `React` and `Tailwind CSS`.
 * **Enhancing Skills In:** Advanced `React` patterns, `Node.js` internals & performance optimization, efficient database querying (`MongoDB`), CI/CD pipeline basics.
@@ -41,6 +42,7 @@
 
 ## 📊 GitHub Activity Snapshot
 
+*(These stats update automatically, providing a dynamic element)*
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aayushsinha09&theme=buefy&hide_border=false&include_all_commits=true&count_private=false&show_icons=true&line_height=21" alt="Aayush Sinha's GitHub Stats"/>
   <br/>
@@ -51,7 +53,14 @@
 
 ---
 
+## ✨ Featured Projects (Placeholder)
 
+* **Crucial for recruiters!** Replace this section with links & brief descriptions of 1-2 of your best works.*
+
+* **Project 1 Name:** [Link to Deployed App](your-deploy-link) | [Link to GitHub Repo](your-repo-link)
+    * Brief description (1-2 sentences): What it is, what problem it solves, key technologies used (`React`, `Node.js`, `MongoDB`, etc.).
+* **Project 2 Name:** [Link to Deployed App](your-deploy-link) | [Link to GitHub Repo](your-repo-link)
+    * Brief description (1-2 sentences): What it is, what problem it solves, key technologies used.
 
 ---
 
