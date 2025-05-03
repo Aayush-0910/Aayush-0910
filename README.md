@@ -1,83 +1,161 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Aayush%20Sinha&fontSize=80&fontAlignY=40&animation=fadeIn&fontColor=ffffff" alt="Header Banner"/>
-</p>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=20BEFF&center=true&vCenter=true&width=450&lines=MERN+Stack+Developer;Backend+Engineer;Lifelong+Learner;Tech+Enthusiast" alt="Typing SVG">
-  </a>
+Conversation with Gemini
+![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)
 
-  <br><br>
 
-  <p>
-    Passionate about building robust, scalable web applications and continuously improving my skills in modern web technologies. Currently focused on the MERN stack, backend development, and performance optimization. (Current time check: Saturday, May 3, 2025 at 10:04 AM IST, Delhi, India).
-  </p>
-</div>
+
+<h1 align="center">Hi <img src="https://media0.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="30px" height="30px">, I'm Aayush Sinha</h1>
+
+<h3 align="center">🚀 An Open Learner | Web Developer | Tech Explorer <img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Developer.gif" width="30px" height="30px"></h3>
+
+
 
 ---
 
-## 🛠️ Core Technical Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=5" alt="Frontend Skills"/><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=3" alt="Backend & Database Skills"/><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,python&perline=5" alt="Tools & Other Skills"/>
-</p>
 
-* **Languages:** `JavaScript (ESNext)`, `Node.js`, `HTML5`, `CSS3`, `Python`
-* **Frameworks/Libraries:** `React`, `Express.js`, `Tailwind CSS`, `Mongoose` (ODM)
-* **Databases:** `MongoDB`
-* **Tools:** `Git`, `GitHub`, `VS Code`, `Postman`, `npm`/`yarn`
-* **Concepts:** `REST API Design`, `MVC Architecture`, `Async Programming`, `API Integration`, `Debugging`
+- 💻 **Currently working on:** MERN stack, dashboards, and backend APIs  
 
----
+- 🤝 **Looking to collaborate on:** React-based products & dashboards  
 
-## 🎯 Current Focus & Goals (As of May 2025)
+- 🔍 **Seeking help with:** Optimizing frontend performance & deployment  
 
-* **Developing:** Building performant backend APIs and services using `Node.js` and `Express.js`. Crafting responsive UI components with `React` and `Tailwind CSS`.
-* **Enhancing Skills In:** Advanced `React` patterns, `Node.js` internals & performance optimization, efficient database querying (`MongoDB`), CI/CD pipeline basics.
-* **Exploring:** (Optional: Add 1-2 areas like `GraphQL`, `TypeScript`, `Testing Frameworks`, `Docker`)
-* **Collaboration:** Eager to contribute to challenging `MERN` stack projects, focusing on backend development, performance improvements, or building complex features.
-* **Career Goal:** To secure a challenging role where I can contribute effectively to building impactful web applications and grow into a senior developer.
+- 📖 **Learning:** React, Node.js, Tailwind CSS, and API integration  
+
+- 🎯 **Goal for 2025:** Build and contribute to real-world web applications  
+
+- 🎉 **Fun fact:** I love debugging as much as I love coffee ☕  
+
+
 
 ---
 
-## 📊 Top Languages
+
+
+## 📬 Reach Me:
+
+- **Email:** [📧 sinhaaayush2001@gmail.com](mailto:sinhaaayush2001@gmail.com)
+
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayushsinha09&theme=buefy&hide_border=false&layout=compact&langs_count=8" alt="Aayush Sinha's Top Languages"/>
+
+  <a href="https://www.linkedin.com/in/aayush-sinha-1a1a4b1a5/" target="_blank">
+
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+
+  </a>
+
+  <a href="https://aayushsinhaportfolio.netlify.app" target="_blank">
+
+    <img src="https://img.shields.io/badge/Portfolio-%2300C896?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+
+  </a>
+
 </p>
 
----
 
-## ✨ Featured Projects (Placeholder)
-
-* **Crucial for recruiters!** Replace this section with links & brief descriptions of 1-2 of your best works.*
-
-* **Project 1 Name:** [Link to Deployed App](your-deploy-link) | [Link to GitHub Repo](your-repo-link)
-    * Brief description (1-2 sentences): What it is, what problem it solves, key technologies used (`React`, `Node.js`, `MongoDB`, etc.).
-* **Project 2 Name:** [Link to Deployed App](your-deploy-link) | [Link to GitHub Repo](your-repo-link)
-    * Brief description (1-2 sentences): What it is, what problem it solves, key technologies used.
 
 ---
 
-## 📬 Connect & Collaborate
 
-Let's connect! Open to discussing opportunities, projects, or sharing knowledge.
+
+## 🧑‍💻 Tech Stack:
+
+
+
+I work with the following technologies to build awesome web experiences:
+
+
+
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,python,git)
+
+
+
+---
+
+
+
+## 📊 GitHub Stats:
+
+
+
+Here's a snapshot of my GitHub activity and contributions:
+
+
 
 <p align="center">
-  <a href="mailto:sinhaaayush2001@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-c71610?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/aayush-sinha-1a1a4b1a5/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>&nbsp;
-  <a href="https://aayushsinhaportfolio.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00C896?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
-  </a>&nbsp;
-  <a href="https://github.com/Aayushsinha09" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Aayushsinha09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" height="180"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayushsinha09&theme=tokyonight&hide_border=false" height="180"/>
+
 </p>
 
+
+
+<p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayushsinha&theme=tokyonight&hide_border=false&layout=compact" />
+
+</p>
+
+
+
 ---
+
+
+
+## 🏆 GitHub Trophies:
+
+
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Aayushsinha09&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+
+---
+
+
+
+## ✨ Dev Quote:
+
+
+
+_"Coding is like humor. If you have to explain it, it’s bad."_
+
+
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+
+
+---
+
+
+
+## 😂 Dev Meme:
+
+
+
+![Random Meme](https://random-memer.herokuapp.com/)
+
+
+
+---
+
+
+
+## 🌐 Let's Connect:
+
+
+
+Feel free to reach out if you'd like to build, brainstorm, or vibe about tech and dev life 🚀
+
+
+
+<p align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&width=100%&section=footer&text=Thanks%20for%20visiting%20my%20profile!" width="100%"/>
+
+</p>
