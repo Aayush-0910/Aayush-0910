@@ -1,5 +1,3 @@
-
-Conversation with Gemini
 ![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)
 
 
