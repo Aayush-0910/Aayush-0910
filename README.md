@@ -64,7 +64,7 @@ Some milestones on my GitHub journey:
 </p>
 
 ---
-
+![My Current Time](https://YOUR_TIMEZONE_BADGE_SERVICE/api?timezone=Asia/Kolkata&style=flat-square&label=My+Local+Time)
 ### ✨ Dev Philosophy & Fun
 
 <p align="center">
