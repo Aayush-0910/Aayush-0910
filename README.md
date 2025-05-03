@@ -1,13 +1,15 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Aayush%20Sinha&fontSize=80&fontAlignY=40&animation=fadeIn&fontColor=ffffff" alt="Header Banner"/>
-  </p>
+</p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=20BEFF&center=true&vCenter=true&width=450&lines=MERN+Stack+Developer;Backend+Engineer;Lifelong+Learner;Tech+Enthusiast" alt="Typing SVG">
-    </a>
+  </a>
 
-  <br><br> <p>
+  <br><br>
+
+  <p>
     Passionate about building robust, scalable web applications and continuously improving my skills in modern web technologies. Currently focused on the MERN stack, backend development, and performance optimization.
   </p>
 </div>
@@ -42,25 +44,30 @@
 
 ## 📊 GitHub Activity Snapshot
 
-*(These stats update automatically, providing a dynamic element)*
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aayushsinha09&theme=buefy&hide_border=false&include_all_commits=true&count_private=false&show_icons=true&line_height=21" alt="Aayush Sinha's GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayushsinha09&theme=buefy&hide_border=false&layout=compact&langs_count=8" alt="Aayush Sinha's Top Languages"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayushsinha09&theme=buefy&hide_border=false" alt="Aayush Sinha's GitHub Streak"/>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Aayushsinha09&theme=buefy&hide_border=false&include_all_commits=true&count_private=false&show_icons=true&line_height=21" alt="Aayush Sinha's GitHub Stats"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <p align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayushsinha09&theme=buefy&hide_border=false" alt="Aayush Sinha's GitHub Streak"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayushsinha09&theme=buefy&hide_border=false&layout=compact&langs_count=8" alt="Aayush Sinha's Top Languages"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## ✨ Featured Projects (Placeholder)
-
-* **Crucial for recruiters!** Replace this section with links & brief descriptions of 1-2 of your best works.*
-
-* **Project 1 Name:** [Link to Deployed App](your-deploy-link) | [Link to GitHub Repo](your-repo-link)
-    * Brief description (1-2 sentences): What it is, what problem it solves, key technologies used (`React`, `Node.js`, `MongoDB`, etc.).
-* **Project 2 Name:** [Link to Deployed App](your-deploy-link) | [Link to GitHub Repo](your-repo-link)
-    * Brief description (1-2 sentences): What it is, what problem it solves, key technologies used.
 
 ---
 
