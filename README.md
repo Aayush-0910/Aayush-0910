@@ -1,104 +1,84 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header&text=Aayush%20Sinha&fontSize=70&fontAlignY=45" alt="Header Banner"/>
+</p>
+
 <div align="center">
-  <pre><code>AAYUSH SINHA</code></pre>
-  <p><code>[ MERN Stack Developer | Backend Engineering | Web Technologies ]</code></p>
+  <h3>
+    🚀 MERN Stack Developer | Backend Engineer | Tech Enthusiast 🚀
+  </h3>
+  <p>
+    Passionate about building robust, scalable web applications and continuously improving my skills in modern web technologies. Currently focused on the MERN stack, backend development, and performance optimization.
+  </p>
 </div>
 
 ---
 
-## // Core Competencies
-
-<details open>
-  <summary><strong>Languages & Runtime Environments</strong></summary>
-  <ul>
-    <li><code>JavaScript (ESNext)</code></li>
-    <li><code>Node.js</code></li>
-    <li><code>HTML5</code></li>
-    <li><code>CSS3</code></li>
-    <li><code>Python</code> (for scripting & exploration)</li>
-  </ul>
-</details>
-
-<details open>
-  <summary><strong>Frameworks & Libraries</strong></summary>
-  <ul>
-    <li><strong>Frontend:</strong> <code>React</code>, <code>Tailwind CSS</code></li>
-    <li><strong>Backend:</strong> <code>Express.js</code></li>
-    <li><strong>State Management:</strong> (Specify if applicable, e.g., <code>Context API</code>, <code>Redux</code>, <code>Zustand</code>)</li>
-  </ul>
-</details>
-
-<details open>
-  <summary><strong>Databases & ORM/ODM</strong></summary>
-  <ul>
-    <li><code>MongoDB</code></li>
-    <li><code>Mongoose</code> (ODM)</li>
-  </ul>
-</details>
-
-<details open>
-  <summary><strong>Tools & Platforms</strong></summary>
-  <ul>
-    <li><strong>Version Control:</strong> <code>Git</code>, <code>GitHub</code></li>
-    <li><strong>API Tools:</strong> <code>Postman</code></li>
-    <li><strong>Package Managers:</strong> <code>npm</code>, <code>yarn</code></li>
-    <li><strong>Editor:</strong> <code>VS Code</code></li>
-    <li>(Add others like Docker, CI/CD tools if applicable)</li>
-  </ul>
-</details>
-
-<details>
-  <summary><strong>Key Concepts & Practices</strong></summary>
-  <ul>
-    <li><code>REST API Design & Development</code></li>
-    <li><code>MVC (Model-View-Controller) Architecture</code></li>
-    <li><code>Asynchronous Programming (Promises, async/await)</code></li>
-    <li><code>API Integration</code></li>
-    <li><code>Frontend Performance Optimization</code> (ongoing learning)</li>
-    <li><code>Deployment Strategies</code> (exploring)</li>
-    <li><code>Debugging & Problem Solving</code></li>
-  </ul>
-</details>
-
----
-
-## // Current Technical Focus (As of May 2025)
-
-* **Actively Developing:**
-    * Building and optimizing scalable backend APIs using `Node.js` / `Express.js`.
-    * Developing interactive frontend components and dashboards with `React`.
-    * Implementing data models and schemas in `MongoDB` via `Mongoose`.
-* **Currently Learning / Researching:**
-    * Advanced `React` concepts (e.g., Hooks deep-dive, state management patterns).
-    * `Node.js` performance tuning and concurrency models.
-    * Efficient `Tailwind CSS` implementation and customization.
-    * Strategies for optimizing frontend build sizes and load times.
-    * (Add specifics like `GraphQL`, `WebSockets`, `Testing Frameworks` if relevant)
-* **Seeking Collaboration On:**
-    * Challenging `MERN` stack projects requiring robust backend logic.
-    * Performance optimization tasks (frontend or backend).
-    * Building complex, data-driven dashboards.
-
----
-
-## // GitHub Activity Metrics
+## 🛠️ Core Technical Skills
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aayushsinha09&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&show_icons=true&line_height=21" alt="Aayush Sinha's GitHub Stats"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=5" alt="Frontend Skills"/><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=3" alt="Backend & Database Skills"/><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,python&perline=5" alt="Tools & Other Skills"/>
+</p>
+
+* **Languages:** `JavaScript (ESNext)`, `Node.js`, `HTML5`, `CSS3`, `Python`
+* **Frameworks/Libraries:** `React`, `Express.js`, `Tailwind CSS`, `Mongoose` (ODM)
+* **Databases:** `MongoDB`
+* **Tools:** `Git`, `GitHub`, `VS Code`, `Postman`, `npm`/`yarn`
+* **Concepts:** `REST API Design`, `MVC Architecture`, `Async Programming`, `API Integration`, `Debugging`
+
+---
+
+## 🎯 Current Focus & Goals (Q2 2025)
+
+* **Developing:** Building performant backend APIs and services using `Node.js` and `Express.js`. Crafting responsive UI components with `React` and `Tailwind CSS`.
+* **Enhancing Skills In:** Advanced `React` patterns, `Node.js` internals & performance optimization, efficient database querying (`MongoDB`), CI/CD pipeline basics.
+* **Exploring:** (Optional: Add 1-2 areas like `GraphQL`, `TypeScript`, `Testing Frameworks`, `Docker`)
+* **Collaboration:** Eager to contribute to challenging `MERN` stack projects, focusing on backend development, performance improvements, or building complex features.
+* **Career Goal:** To secure a challenging role where I can contribute effectively to building impactful web applications and grow into a senior developer.
+
+---
+
+## 📊 GitHub Activity Snapshot
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aayushsinha09&theme=buefy&hide_border=false&include_all_commits=true&count_private=false&show_icons=true&line_height=21" alt="Aayush Sinha's GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayushsinha09&theme=github_dark&hide_border=false&layout=compact&langs_count=8" alt="Aayush Sinha's Top Languages"/>
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayushsinha09&theme=buefy&hide_border=false&layout=compact&langs_count=8" alt="Aayush Sinha's Top Languages"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayushsinha09&theme=buefy&hide_border=false" alt="Aayush Sinha's GitHub Streak"/>
+</p>
 
 ---
 
-## // Connect & Collaborate
+## ✨ Featured Projects (Placeholder)
 
-Open to discussing technical challenges, project collaborations, or knowledge sharing.
+* recruiters *love* seeing deployed projects! Replace this section with links & brief descriptions of 1-2 of your best works.*
+
+* **Project 1 Name:** [Link to Deployed App](your-deploy-link) | [Link to GitHub Repo](your-repo-link)
+    * Brief description (1-2 sentences): What it is, what problem it solves, key technologies used (`React`, `Node.js`, `MongoDB`, etc.).
+* **Project 2 Name:** [Link to Deployed App](your-deploy-link) | [Link to GitHub Repo](your-repo-link)
+    * Brief description (1-2 sentences): What it is, what problem it solves, key technologies used.
+
+---
+
+## 📬 Connect & Collaborate
+
+Let's connect! Open to discussing opportunities, projects, or sharing knowledge.
 
 <p align="center">
-  <code><a href="mailto:sinhaaayush2001@gmail.com">[ Email ]</a></code> |
-  <code><a href="https://www.linkedin.com/in/aayush-sinha-1a1a4b1a5/" target="_blank">[ LinkedIn ]</a></code> |
-  <code><a href="https://aayushsinhaportfolio.netlify.app" target="_blank">[ Portfolio ]</a></code> |
-  <code><a href="https://github.com/Aayushsinha09" target="_blank">[ GitHub ]</a></code>
+  <a href="mailto:sinhaaayush2001@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-c71610?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/aayush-sinha-1a1a4b1a5/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>&nbsp;
+  <a href="https://aayushsinhaportfolio.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00C896?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>&nbsp;
+  <a href="https://github.com/Aayushsinha09" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
 
 ---
