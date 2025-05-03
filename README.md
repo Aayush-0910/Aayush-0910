@@ -42,24 +42,32 @@
 
 ---
 
-## 📊 GitHub Activity Summary
+## 📊 GitHub Activity Snapshot
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aayushsinha09&theme=solarized_light" alt="Aayush Sinha's Profile Summary Card"/>
-  <br> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aayushsinha09&theme=solarized_light&layout=compact" alt="Aayush Sinha's Repositories per Language"/>
-  <br> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aayushsinha09&theme=solarized_light&layout=compact" alt="Aayush Sinha's Most Commit Language"/>
-   </p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Aayushsinha09&theme=buefy&hide_border=false&include_all_commits=true&count_private=false&show_icons=true&line_height=21" alt="Aayush Sinha's GitHub Stats"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <p align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayushsinha09&theme=buefy&hide_border=false" alt="Aayush Sinha's GitHub Streak"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayushsinha09&theme=buefy&hide_border=false&layout=compact&langs_count=8" alt="Aayush Sinha's Top Languages"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## ✨ Featured Projects (Placeholder)
-
-* **Crucial for recruiters!** Replace this section with links & brief descriptions of 1-2 of your best works.*
-
-* **Project 1 Name:** [Link to Deployed App](your-deploy-link) | [Link to GitHub Repo](your-repo-link)
-    * Brief description (1-2 sentences): What it is, what problem it solves, key technologies used (`React`, `Node.js`, `MongoDB`, etc.).
-* **Project 2 Name:** [Link to Deployed App](your-deploy-link) | [Link to GitHub Repo](your-repo-link)
-    * Brief description (1-2 sentences): What it is, what problem it solves, key technologies used.
 
 ---
 
