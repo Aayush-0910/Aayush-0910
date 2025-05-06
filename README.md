@@ -16,7 +16,6 @@ I'm passionate about building robust and user-friendly web applications. Here's 
 
 -   💻 **Currently working on:** Developing full-stack applications using the MERN stack, focusing on interactive dashboards and efficient backend APIs.
 -   🤝 **Looking to collaborate on:** Exciting React-based products, dashboards, and open-source projects.
--   🔍 **Seeking insights on:** Advanced frontend performance optimization techniques and streamlined deployment strategies (CI/CD).
 -   📖 **Actively learning:** Deepening my knowledge in React, Node.js, state management, Tailwind CSS for rapid UI development, and RESTful/GraphQL API integration.
 -   🎯 **My Goal for 2025:** To contribute significantly to real-world web applications and launch a personal project.
 -   🎉 **Fun fact:** Debugging code challenges me in the best way, almost as much as a good cup of coffee ☕ fuels me!
