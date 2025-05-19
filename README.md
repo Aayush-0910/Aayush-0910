@@ -1,4 +1,6 @@
-<p align="center"><img src="https://www.digitalsolutionservices.com/img/services/website1.gif" alt="Coding Banner"></p>
+<p align="center">
+  <img src="https://www.digitalsolutionservices.com/img/services/website1.gif" alt="Coding Banner" width="100%"/>
+</p>
 
 <h1 align="center">
   Hi there <img src="https://media0.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="30px" height="30px">, I'm Aayush Sinha!
@@ -10,7 +12,7 @@
 
 ---
 
-### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me & Current Focus
+### <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" align="center"> About Me & Current Focus
 
 I'm passionate about building robust and user-friendly web applications. Here's what I'm up to:
 
@@ -22,7 +24,7 @@ I'm passionate about building robust and user-friendly web applications. Here's 
 
 ---
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> My Tech Stack
+### <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px" align="center"> My Tech Stack
 
 Technologies I regularly work with to create awesome digital experiences:
 
@@ -32,7 +34,7 @@ Technologies I regularly work with to create awesome digital experiences:
 
 ---
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/github.gif?raw=true" width = 50px>  </picture> GitHub Stats & Activity
+### <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/github.gif?raw=true" width="50px" align="center"> GitHub Stats & Activity
 
 A glimpse into my coding journey and contributions:
 
@@ -47,14 +49,15 @@ A glimpse into my coding journey and contributions:
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayushsinha09&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
-      </td>
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayushsinha09&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" width="80%"/>
+    </td>
   </tr>
 </table>
 
 ---
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Certification.gif?raw=true" width = 50px>  </picture> GitHub Trophies
+### <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Certification.gif?raw=true" width="50px" align="center"> GitHub Trophies
 
 Some milestones on my GitHub journey:
 
@@ -63,7 +66,7 @@ Some milestones on my GitHub journey:
 </p>
 
 ---
-![My Current Time](https://YOUR_TIMEZONE_BADGE_SERVICE/api?timezone=Asia/Kolkata&style=flat-square&label=My+Local+Time)
+
 ### ✨ Dev Philosophy & Fun
 
 <p align="center">
@@ -75,12 +78,12 @@ Some milestones on my GitHub journey:
 </p>
 
 <p align="center">
-  <img src="https://random-memer.herokuapp.com/" alt="Random Dev Meme"/>
+  <img src="https://random-memer.herokuapp.com/" alt="Random Dev Meme" style="max-width: 400px; border-radius: 8px;"/>
 </p>
 
 ---
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/handshake.gif?raw=true" width = 50px>  </picture> Let's Connect!
+### <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/handshake.gif?raw=true" width="50px" align="center"> Let's Connect!
 
 Feel free to reach out if you'd like to build something amazing, brainstorm ideas, or just chat about tech!
 
@@ -91,7 +94,8 @@ Feel free to reach out if you'd like to build something amazing, brainstorm idea
   <a href="https://www.linkedin.com/in/aayush-sinha-1a1a4b1a5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  &nbsp; <a href="https://aayushsinhaportfolio.netlify.app" target="_blank">
+  &nbsp; &nbsp;
+  <a href="https://aayushsinhaportfolio.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%2300C896?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
 </p>
