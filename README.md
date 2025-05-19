@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://www.digitalsolutionservices.com/img/services/website1.gif" alt="Coding Banner" width="100%"/>
-</p>
+<p align="center"><img src="https://www.digitalsolutionservices.com/img/services/website1.gif" alt="Coding Banner"></p>
 
 <h1 align="center">
   Hi there <img src="https://media0.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="30px" height="30px">, I'm Aayush Sinha!
@@ -12,38 +10,29 @@
 
 ---
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40px" align="center"> About Me & Current Focus</h3>
-      I'm passionate about building robust and user-friendly web applications. Here's what I'm up to:
-      <br><br>
-      - 💻 **Currently working on:** Developing full-stack applications using the MERN stack, focusing on interactive dashboards and efficient backend APIs.
-      <br>
-      - 🤝 **Looking to collaborate on:** Exciting React-based products, dashboards, and open-source projects.
-      <br>
-      - 📖 **Actively learning:** Deepening my knowledge in React, Node.js, state management, Tailwind CSS for rapid UI development, and RESTful/GraphQL API integration.
-      <br>
-      - 🎯 **My Goal for 2025:** To contribute significantly to real-world web applications and launch a personal project.
-      <br>
-      - 🎉 **Fun fact:** Debugging code challenges me in the best way, almost as much as a good cup of coffee ☕ fuels me!
-    </td>
-    <td width="50%" valign="top">
-      <h3><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="40px" align="center"> My Tech Stack</h3>
-      Technologies I regularly work with to create awesome digital experiences:
-      <br><br>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,python,git" alt="Tech Stack Icons"/>
-      </p>
-      <br>
-      <em>(And always eager to learn more!)</em>
-    </td>
-  </tr>
-</table>
+### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me & Current Focus
+
+I'm passionate about building robust and user-friendly web applications. Here's what I'm up to:
+
+-   💻 **Currently working on:** Developing full-stack applications using the MERN stack, focusing on interactive dashboards and efficient backend APIs.
+-   🤝 **Looking to collaborate on:** Exciting React-based products, dashboards, and open-source projects.
+-   📖 **Actively learning:** Deepening my knowledge in React, Node.js, state management, Tailwind CSS for rapid UI development, and RESTful/GraphQL API integration.
+-   🎯 **My Goal for 2025:** To contribute significantly to real-world web applications and launch a personal project.
+-   🎉 **Fun fact:** Debugging code challenges me in the best way, almost as much as a good cup of coffee ☕ fuels me!
 
 ---
 
-### <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/github.gif?raw=true" width="50px" align="center"> GitHub Stats & Activity
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> My Tech Stack
+
+Technologies I regularly work with to create awesome digital experiences:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,python,git" alt="Tech Stack Icons"/>
+</p>
+
+---
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/github.gif?raw=true" width = 50px>  </picture> GitHub Stats & Activity
 
 A glimpse into my coding journey and contributions:
 
@@ -58,15 +47,14 @@ A glimpse into my coding journey and contributions:
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayushsinha09&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" width="80%"/>
-    </td>
+      <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayushsinha09&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
+      </td>
   </tr>
 </table>
 
 ---
 
-### <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Certification.gif?raw=true" width="50px" align="center"> GitHub Trophies
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Certification.gif?raw=true" width = 50px>  </picture> GitHub Trophies
 
 Some milestones on my GitHub journey:
 
@@ -75,7 +63,7 @@ Some milestones on my GitHub journey:
 </p>
 
 ---
-
+![My Current Time](https://YOUR_TIMEZONE_BADGE_SERVICE/api?timezone=Asia/Kolkata&style=flat-square&label=My+Local+Time)
 ### ✨ Dev Philosophy & Fun
 
 <p align="center">
@@ -87,12 +75,12 @@ Some milestones on my GitHub journey:
 </p>
 
 <p align="center">
-  <img src="https://random-memer.herokuapp.com/" alt="Random Dev Meme" style="max-width: 400px; border-radius: 8px;"/>
+  <img src="https://random-memer.herokuapp.com/" alt="Random Dev Meme"/>
 </p>
 
 ---
 
-### <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/handshake.gif?raw=true" width="50px" align="center"> Let's Connect!
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/handshake.gif?raw=true" width = 50px>  </picture> Let's Connect!
 
 Feel free to reach out if you'd like to build something amazing, brainstorm ideas, or just chat about tech!
 
@@ -103,8 +91,7 @@ Feel free to reach out if you'd like to build something amazing, brainstorm idea
   <a href="https://www.linkedin.com/in/aayush-sinha-1a1a4b1a5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  &nbsp; &nbsp;
-  <a href="https://aayushsinhaportfolio.netlify.app" target="_blank">
+  &nbsp; <a href="https://aayushsinhaportfolio.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%2300C896?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
 </p>
