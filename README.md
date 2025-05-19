@@ -12,25 +12,34 @@
 
 ---
 
-### <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" align="center"> About Me & Current Focus
-
-I'm passionate about building robust and user-friendly web applications. Here's what I'm up to:
-
--   💻 **Currently working on:** Developing full-stack applications using the MERN stack, focusing on interactive dashboards and efficient backend APIs.
--   🤝 **Looking to collaborate on:** Exciting React-based products, dashboards, and open-source projects.
--   📖 **Actively learning:** Deepening my knowledge in React, Node.js, state management, Tailwind CSS for rapid UI development, and RESTful/GraphQL API integration.
--   🎯 **My Goal for 2025:** To contribute significantly to real-world web applications and launch a personal project.
--   🎉 **Fun fact:** Debugging code challenges me in the best way, almost as much as a good cup of coffee ☕ fuels me!
-
----
-
-### <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px" align="center"> My Tech Stack
-
-Technologies I regularly work with to create awesome digital experiences:
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,python,git" alt="Tech Stack Icons"/>
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40px" align="center"> About Me & Current Focus</h3>
+      I'm passionate about building robust and user-friendly web applications. Here's what I'm up to:
+      <br><br>
+      - 💻 **Currently working on:** Developing full-stack applications using the MERN stack, focusing on interactive dashboards and efficient backend APIs.
+      <br>
+      - 🤝 **Looking to collaborate on:** Exciting React-based products, dashboards, and open-source projects.
+      <br>
+      - 📖 **Actively learning:** Deepening my knowledge in React, Node.js, state management, Tailwind CSS for rapid UI development, and RESTful/GraphQL API integration.
+      <br>
+      - 🎯 **My Goal for 2025:** To contribute significantly to real-world web applications and launch a personal project.
+      <br>
+      - 🎉 **Fun fact:** Debugging code challenges me in the best way, almost as much as a good cup of coffee ☕ fuels me!
+    </td>
+    <td width="50%" valign="top">
+      <h3><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="40px" align="center"> My Tech Stack</h3>
+      Technologies I regularly work with to create awesome digital experiences:
+      <br><br>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,python,git" alt="Tech Stack Icons"/>
+      </p>
+      <br>
+      <em>(And always eager to learn more!)</em>
+    </td>
+  </tr>
+</table>
 
 ---
 
