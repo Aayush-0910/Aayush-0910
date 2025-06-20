@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  🚀 Web Developer | MERN Stack Enthusiast | Tech Explorer <img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Developer.gif" width="30px" height="30px">
+  🚀 Frontend Web Developer | MERN Stack Enthusiast | Tech Explorer <img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Developer.gif" width="30px" height="30px">
 </h3>
 
 ---
