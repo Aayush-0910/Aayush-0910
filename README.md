@@ -1,103 +1,21 @@
-<p align="center"><img src="https://www.digitalsolutionservices.com/img/services/website1.gif" alt="Coding Banner"></p>
 
-<h1 align="center">
-  Hi there <img src="https://media0.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="30px" height="30px">, I'm Aayush Sinha!
-</h1>
+<h1 align="center">Hello 👋, I'm Harsh </h1>
+<h3 align="center">A passionate Computer Engineer & Programmer </h3>
 
-<h3 align="center">
-  🚀 Frontend Web Developer | MERN Stack Enthusiast | Tech Explorer <img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Developer.gif" width="30px" height="30px">
-</h3>
+<img align="right" alt="Coding" width="500" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+- 📫 Reach me through **hm0976@srmist.edu.in
+- Contact Me @ 8340634626**
 
----
+- ⚡ My technical skills are
+-  **Problem solving, Coding, Python, React.js, Express.Js, MonogoDb, Node.Js, Typescipt, Tailwind, JavaScript, C++, Data Structures, Mathematics.**
 
-### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me & Current Focus
-
-I'm passionate about building robust and user-friendly web applications. Here's what I'm up to:
-
--   💻 **Currently working on:** Developing full-stack applications using the MERN stack, focusing on interactive dashboards and efficient backend APIs.
--   🤝 **Looking to collaborate on:** Exciting React-based products, dashboards, and open-source projects.
--   📖 **Actively learning:** Deepening my knowledge in React, Node.js, state management, Tailwind CSS for rapid UI development, and RESTful/GraphQL API integration.
--   🎯 **My Goal for 2025:** To contribute significantly to real-world web applications and launch a personal project.
--   🎉 **Fun fact:** Debugging code challenges me in the best way, almost as much as a good cup of coffee ☕ fuels me!
-
----
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> My Tech Stack
-
-Technologies I regularly work with to create awesome digital experiences:
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,python,git" alt="Tech Stack Icons"/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/harsh." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh." height="30" width="40" /></a>
+<a href="https://fb.com/harsh kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harsh kumar" height="30" width="40" /></a>
+<a href="https://instagram.com/harsh_4452" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsh_4452" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/hm0976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hm0976" height="30" width="40" /></a>
 </p>
 
----
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/github.gif?raw=true" width = 50px>  </picture> GitHub Stats & Activity
-
-A glimpse into my coding journey and contributions:
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Aayushsinha09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&show_icons=true" alt="Aayush Sinha's GitHub Stats" width="100%"/>
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayushsinha09&theme=tokyonight&hide_border=false" alt="Aayush Sinha's GitHub Streak" width="100%"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayushsinha09&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
-      </td>
-  </tr>
-</table>
-
----
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Certification.gif?raw=true" width = 50px>  </picture> GitHub Trophies
-
-Some milestones on my GitHub journey:
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aayushsinha09&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</p>
-
----
-![My Current Time](https://YOUR_TIMEZONE_BADGE_SERVICE/api?timezone=Asia/Kolkata&style=flat-square&label=My+Local+Time)
-### ✨ Dev Philosophy & Fun
-
-<p align="center">
-  <em>"Coding is like humor. If you have to explain it, it’s bad."</em>
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-</p>
-
-<p align="center">
-  <img src="https://random-memer.herokuapp.com/" alt="Random Dev Meme"/>
-</p>
-
----
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/handshake.gif?raw=true" width = 50px>  </picture> Let's Connect!
-
-Feel free to reach out if you'd like to build something amazing, brainstorm ideas, or just chat about tech!
-
--   **Email:** [📧 sinhaaayush2001@gmail.com](mailto:sinhaaayush2001@gmail.com)
--   **Portfolio:** Check out my work [here](https://aayushsinhaportfolio.netlify.app)!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aayush-sinha-1a1a4b1a5/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  &nbsp; <a href="https://aayushsinhaportfolio.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%2300C896?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer&text=Thanks%20for%20visiting!&fontSize=30&animation=twinkling&fontAlignY=45" width="100%"/>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
