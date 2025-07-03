@@ -1,13 +1,13 @@
 
-<h1 align="center">Hello 👋, I'm Harsh </h1>
+<h1 align="center">Hello 👋, I'm Aayush </h1>
 <h3 align="center">A passionate Computer Engineer & Programmer </h3>
 
 <img align="right" alt="Coding" width="500" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-- 📫 Reach me through **hm0976@srmist.edu.in
-- Contact Me @ 8340634626**
+- 📫 Reach me through **sinhaaayush2001@gmail.com
+- Contact Me @ 8383860320**
 
 - ⚡ My technical skills are
--  **Problem solving, Coding, Python, React.js, Express.Js, MonogoDb, Node.Js, Typescipt, Tailwind, JavaScript, C++, Data Structures, Mathematics.**
+-  **Problem solving, React.js, Express.Js, MonogoDb, Node.Js, Typescipt, Tailwind, JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
