@@ -4,7 +4,6 @@
 
 <img align="right" alt="Coding" width="500" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 - 📫 Reach me through **sinhaaayush2001@gmail.com
-- Contact Me @ sinhaaayush2001@gmail.com**
 
 - ⚡ My technical skills are
 -  **Problem solving, React.js, Express.Js, MonogoDb, Node.Js, Typescipt, Tailwind, JavaScript**
