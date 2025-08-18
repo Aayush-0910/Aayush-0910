@@ -146,7 +146,7 @@ const aayush = {
 
 ## 🐍 Contribution Snake
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/Aayush-0910/Aayush-0910/output/snake.svg" alt="Snake animation"/>
 </div>
 
 ---
@@ -160,5 +160,5 @@ const aayush = {
 ---
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/YOUR_USERNAME">Aayush</a> with ❤️</i>
+  <i>⭐️ From <a href="https://github.com/Aayush-0910">Aayush</a> with ❤️</i>
 </p>
