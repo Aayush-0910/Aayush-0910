@@ -15,8 +15,8 @@
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=radical&hide_border=true&layout=compact" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aayush-0910&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush-0910&theme=radical&hide_border=true&layout=compact" alt="Top Languages" height="180"/>
 </div>
 
 ### 🔥 Contribution Streak
