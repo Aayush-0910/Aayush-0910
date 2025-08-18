@@ -21,12 +21,12 @@
 
 ### 🔥 Contribution Streak
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush-0910&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ### 📈 Contribution Graph
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Aayush-0910&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
 
 ---
