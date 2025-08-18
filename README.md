@@ -103,7 +103,7 @@ const aayush = {
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Aayush-0910&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -117,7 +117,7 @@ const aayush = {
   <a href="https://www.linkedin.com/in/aayush-sinha-1a1a4b1a5/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Aayush-0910">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -127,8 +127,8 @@ const aayush = {
 ## 📈 Profile Views & Followers
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=Aayush-0910&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Aayush-0910?label=Followers&style=social" alt="Followers"/>
 </p>
 
 ---
