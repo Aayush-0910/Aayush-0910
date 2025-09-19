@@ -26,8 +26,7 @@
 
 ### 📈 Contribution Graph
 <div align="center">
-  <!-- Working graph (replace "react-dark" with "dracula", "tokyo-night", "gruvbox" etc. to try other themes) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aayush-0910&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Aayush-0910&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -43,41 +42,123 @@ const aayush = {
     hobbies: ["Coding", "Problem Solving", "Learning New Tech"],
     funFact: "I love turning complex problems into simple solutions!"
 };
-🛠️ Tech Stack & Skills
-💻 Programming Languages
-<p align="center"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> </p>
-🚀 Frontend Development
-<p align="center"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> </p>
-⚡ Backend Development
-<p align="center"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> </p>
-🗄️ Databases
-<p align="center"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> </p>
-☁️ Cloud & DevOps
-<p align="center"> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/> </p>
-🤖 AI/ML & Data Science
-<p align="center"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> </p>
-🎮 Game Development
-<p align="center"> <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white"/> </p>
-🏆 GitHub Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Aayush-0910&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/> </div>
-📫 Connect With Me
-<p align="center"> <a href="mailto:sinhaaayush2001@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/aayush-sinha-1a1a4b1a5/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/Aayush-0910"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
-📈 Profile Views & Followers
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Aayush-0910&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/> <img src="https://img.shields.io/github/followers/Aayush-0910?label=Followers&style=social" alt="Followers"/> </p>
-💡 Fun Facts About Me
-🔭 I'm currently working on Full Stack Web Development
+```
 
-🌱 I'm currently learning Advanced React Patterns & Cloud Architecture
+---
 
-👯 I'm looking to collaborate on Open Source Projects
+## 🛠️ Tech Stack & Skills
 
-🤔 I'm looking for help with Machine Learning Projects
+### 💻 Programming Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</p>
 
-💬 Ask me about React, Node.js, Python, or anything tech-related
+### 🚀 Frontend Development
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
 
-⚡ Fun fact: I debug code faster when listening to music! 🎵
+### ⚡ Backend Development
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+</p>
 
-🐍 Contribution Snake
-<div align="center"> <img src="https://raw.githubusercontent.com/Aayush-0910/Aayush-0910/output/snake.svg" alt="Snake animation"/> </div>
-<div align="center"> <h3>💝 Thanks for visiting my profile! Have a great day! 💝</h3> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em> </div>
-<p align="center"> <i>⭐️ From <a href="https://github.com/Aayush-0910">Aayush</a> with ❤️</i> </p> ```
+### 🗄️ Databases
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="center">
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+### 🤖 AI/ML & Data Science
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black"/>
+</p>
+
+### 🎮 Game Development
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aayush-0910&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:sinhaaayush2001@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aayush-sinha-1a1a4b1a5/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Aayush-0910">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📈 Profile Views & Followers
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aayush-0910&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Aayush-0910?label=Followers&style=social" alt="Followers"/>
+</p>
+
+---
+
+## 💡 Fun Facts About Me
+
+- 🔭 I'm currently working on **Full Stack Web Development**
+- 🌱 I'm currently learning **Advanced React Patterns & Cloud Architecture**
+- 👯 I'm looking to collaborate on **Open Source Projects**
+- 🤔 I'm looking for help with **Machine Learning Projects**
+- 💬 Ask me about **React, Node.js, Python, or anything tech-related**
+- ⚡ Fun fact: **I debug code faster when listening to music! 🎵**
+
+---
+
+## 🐍 Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Aayush-0910/Aayush-0910/output/snake.svg" alt="Snake animation"/>
+</div>
+
+---
+
+<div align="center">
+  <h3>💝 Thanks for visiting my profile! Have a great day! 💝</h3>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+</div>
+
+---
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/Aayush-0910">Aayush</a> with ❤️</i>
+</p>
